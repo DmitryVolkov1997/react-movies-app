@@ -1,0 +1,1 @@
+export const MOVIES_API_URL = import.meta.env.VITE_MOVIES_API_URL
